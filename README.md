@@ -1,6 +1,5 @@
-[View the Full PDF Report Here](./NYC%20Hate%20Crimes%20Visualiztion.pdf)
-
 # NYC Hate Crimes Visualization
+[View the Full PDF Report Here](./NYC%20Hate%20Crimes%20Visualiztion.pdf)
 
 ## Overview
 
@@ -12,24 +11,7 @@ This project analyzes hate crime incidents in New York City to identify which de
 - **Location**: New York City  
 - **Time Frame**: October 2020 – February 2023  
 
----
 
-## Project Structure
-
-```
-NYC-Hate-Crimes-Visualization/
-├── .gitignore
-├── NYC Hate Crimes Visualiztion.pdf # Project report
-├── data/
-│ └── raw/
-│ ├── adult19.csv # Bonus dataset (height vs weight)
-│ ├── example-data.csv # Sample CSV
-│ └── NYPD_Hate_Crimes.csv # Main dataset
-├── src/
-│ └── NYC Hate Crimes Visualiztion.ipynb # Jupyter notebook with code and analysis
-```
-
----
 
 ## Dataset
 
@@ -57,17 +39,6 @@ NYC-Hate-Crimes-Visualization/
 
 ---
 
-## Report
-
-You can view the final report as a PDF here:
-
-[View the PDF Report](./NYC%20Hate%20Crimes%20Visualiztion.pdf)
-
-This PDF is generated from the Jupyter notebook and contains all analysis, visualizations, and conclusions.
-
-
----
-
 ## Visualizations
 
 - Bar chart showing top 5 bias motives.
@@ -86,6 +57,18 @@ Using the `adult19.csv` dataset:
 ![Height-Weight Correlation](/img/plot2.png)
 
 ---
+
+## Report
+
+You can view the final report as a PDF here:
+
+[View the PDF Report](./NYC%20Hate%20Crimes%20Visualiztion.pdf)
+
+This PDF is generated from the Jupyter notebook and contains all analysis, visualizations, and conclusions.
+
+
+---
+
 
 ## Requirements
 
